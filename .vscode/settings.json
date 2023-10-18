@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.md": "markdown",
+        "*.cpp": "cpp",
+        "*.sh": "shellscript",
+        "*.c": "c",
+        "xadcps.h": "c",
+        "xadcps_hw.h": "c"
+    }
+}
